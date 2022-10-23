@@ -6,7 +6,7 @@ sudo apt-get install xcowsay
 sudo apt-get install mplayer
 
 figlet "Diwali"
-echo "created by @neha   ver:-1.0         23/10/2022"
+echo "   ver:-1.0 Ashique Bendelladj"
 #LinkedIn: https://www.linkedin.com/in/ashq
 # playing diwali music
 
